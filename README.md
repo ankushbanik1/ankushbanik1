@@ -7,7 +7,7 @@
 
 
 ## 🙋‍♂️ About Me
-   --  *Co-founder At Bledz*
+   --  *Co-founder At StyleMind*
 
 - 🔭 I’m currently working on **Real Time Mask detector** || **Automatic job scheduling with python** || **Covid 19 Detector && desktop notificaion Tracker**
 
